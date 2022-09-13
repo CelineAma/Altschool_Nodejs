@@ -1,0 +1,14 @@
+{
+  "name": "test_tdd",
+  "version": "1.0.0",
+  "description": "Test driven development tutorial",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Celine",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.0.1"
+  }
+}
