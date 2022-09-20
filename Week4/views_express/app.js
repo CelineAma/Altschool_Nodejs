@@ -15,7 +15,7 @@ app.use(bodyParser.json());
 app.use('/books', booksRoute);
 
 app.get('/', (req, res) => {
-    res.render('index', { name: 'John' });
+    res.render('index', { name: 'Celine' });
 });
 
 app.listen(PORT, () => {

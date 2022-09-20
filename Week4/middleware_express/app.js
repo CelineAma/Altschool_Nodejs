@@ -41,11 +41,11 @@ app.get("/users", (req, res) => {
     res.json([
         {
             id: 1,
-            name: "Yemi Olanrewaju",
+            name: "Chloe Arinze",
         },
         {
             id: 2,
-            name: "Oluwasegun Olaoluwa",
+            name: "claire Arinze",
         }
     ]);
 })
